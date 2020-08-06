@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+typedef OnPressed = void Function();
+
 const kPrimaryColor = Color(0xFF1963AC);
 const kSecondaryColor = Color(0xFFF6822A);
 const kTextColor = Color(0xFF909090);
